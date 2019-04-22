@@ -15,6 +15,7 @@ The setup is as follows:
     - https://blender.stackexchange.com/questions/60758/hotkey-to-change-select-mode#comment236267_60759
 - [ ] Find out why Dissolve Faces is not it
 - [ ] Find out how to introduce an edge where the vertical facesoverlap so that the top faces could be removed and a new one connecting the six points added
+  - https://github.com/TomasHubelbauer/blender-edge-at-face-intersection
 
 ## Dissolve Edges
 
