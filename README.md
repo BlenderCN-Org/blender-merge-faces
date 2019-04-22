@@ -15,3 +15,10 @@ The setup is as follows:
     - https://blender.stackexchange.com/questions/60758/hotkey-to-change-select-mode#comment236267_60759
 - [ ] Find out why Dissolve Faces is not it
 - [ ] Find out how to introduce an edge where the vertical facesoverlap so that the top faces could be removed and a new one connecting the six points added
+
+## Dissolve Edges
+
+Selecting the edges belonging to the top faces of the cylinders contained within the area of the cube top face
+except for the ones that are touching the cube top face edges and dissolving them works to a degree and provides
+close to the desired result, however extending this selection to the edges of the cube's top face and dissolving
+further collapses the whole mesh on itself.
