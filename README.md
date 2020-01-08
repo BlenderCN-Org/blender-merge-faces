@@ -1,5 +1,7 @@
 # Blender Merge Faces
 
+[**WEB**](https://tomashubelbauer.github.io/blender-merge-faces)
+
 In this repository I try to figure out how to merge coplanar faces in Blender 2.8.
 
 The setup is as follows:
