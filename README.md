@@ -25,3 +25,5 @@ Selecting the edges belonging to the top faces of the cylinders contained within
 except for the ones that are touching the cube top face edges and dissolving them works to a degree and provides
 close to the desired result, however extending this selection to the edges of the cube's top face and dissolving
 further collapses the whole mesh on itself.
+
+## To-Do
